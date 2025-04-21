@@ -7,7 +7,7 @@ const Header = () => {
     <Navbar bg="light" expand="lg">
       <Container>
         <AppLink className="text-decoration-none fw-bolder" to="/home">
-          <Navbar.Brand className="text-danger">Meals Mania</Navbar.Brand>
+          <Navbar.Brand className="text-danger">FlavorFind</Navbar.Brand>
         </AppLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
