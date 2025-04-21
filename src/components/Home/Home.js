@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <Container className="mx-auto">
       <h2 className="mt-5 text-center">
-        Welcome To Our <span className="text-danger">Meals Mania</span>
+        Welcome To Our <span className="text-danger">FlavorFind</span>
       </h2>
      <div className="text-center mt-5">
      <Image
